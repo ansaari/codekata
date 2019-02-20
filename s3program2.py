@@ -1,6 +1,6 @@
 z=int(input())
-a=[]
-a=input().split()
-for i in range(0,len(a)):
-    a[i]=int(a[i])
-print(max(a))
+v=[]
+v=input().split()
+for i in range(0,len(v)):
+    v[i]=int(v[i])
+print(max(v))
